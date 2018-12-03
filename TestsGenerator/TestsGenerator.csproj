@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <PackageReference Include="Roslyn" Version="1.2.20906.2" />
+      <PackageReference Include="System.Threading.Tasks.Dataflow" Version="4.9.0" />
     </ItemGroup>
 
 </Project>
